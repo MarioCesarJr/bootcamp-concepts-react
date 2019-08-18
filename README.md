@@ -16,4 +16,4 @@ The aim of this project is to set up a React environment in the classic way.
 > yarn dev
 ```
  
-You can browse the apis at <http://localhost:8080>
+The app will start running at <http://localhost:8080>
