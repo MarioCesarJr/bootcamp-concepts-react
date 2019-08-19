@@ -1,4 +1,4 @@
-# Rocketseat Bootcamp - Concepts of ReactJS
+# Rocketseat Bootcamp - Concepts of React
 
 The aim of this project is to set up a React environment in the classic way.
 
