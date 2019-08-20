@@ -10,7 +10,7 @@ The aim of this project is to set up a React environment in the classic way.
 > yarn
 ```
 
-2. Run Server
+2. Run app
 
 ```bash
 > yarn dev
